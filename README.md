@@ -4,7 +4,7 @@ RMarkdown Test Files
 Practice Preparing RMarkdown files - Reproducible Research Coursera
 -------------------------------------------------------------------
 
-##Aaron Horning
+###*Aaron Horning*
 
 *This text will appear italicized*
 
